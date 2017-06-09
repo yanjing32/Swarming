@@ -1,0 +1,3 @@
+The Main code is <two_particle_cong.m>. It will call the other codes in this folder.
+
+Copyright: Jing Yan, Cong Xu and Steve Granick, 2016

@@ -1,0 +1,14 @@
+These codes are used to run PIV tracking on large scale image of the swarming state. 
+
+Copyrght: Jing Yan, Steve Granick, 2016.
+
+
+First run track_pattern_discretesave_with_thresh.m.
+
+Then use stiching.m to stich the discrete data together. 
+
+Use track_spurious.m to remove spurious data.
+
+Use track_density.m and track_vorticity.m to obtain more information.
+
+Use track_wave_front.m and time_space_evolution to analyze the wave propagation. 
